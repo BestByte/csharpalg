@@ -2,3 +2,9 @@
 **/CVS/*
 .cvsignore
 */.cvsignore
+*.csproj
+*/*.csproj
+*.sln
+*/*.sln
+*.suo
+*/*.suo
