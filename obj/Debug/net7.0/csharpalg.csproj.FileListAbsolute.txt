@@ -1,0 +1,15 @@
+/home/baixin/Documents/Project/csharpalg/bin/Debug/net7.0/csharpalg
+/home/baixin/Documents/Project/csharpalg/bin/Debug/net7.0/csharpalg.deps.json
+/home/baixin/Documents/Project/csharpalg/bin/Debug/net7.0/csharpalg.runtimeconfig.json
+/home/baixin/Documents/Project/csharpalg/bin/Debug/net7.0/csharpalg.dll
+/home/baixin/Documents/Project/csharpalg/bin/Debug/net7.0/csharpalg.pdb
+/home/baixin/Documents/Project/csharpalg/obj/Debug/net7.0/csharpalg.csproj.AssemblyReference.cache
+/home/baixin/Documents/Project/csharpalg/obj/Debug/net7.0/csharpalg.GeneratedMSBuildEditorConfig.editorconfig
+/home/baixin/Documents/Project/csharpalg/obj/Debug/net7.0/csharpalg.AssemblyInfoInputs.cache
+/home/baixin/Documents/Project/csharpalg/obj/Debug/net7.0/csharpalg.AssemblyInfo.cs
+/home/baixin/Documents/Project/csharpalg/obj/Debug/net7.0/csharpalg.csproj.CoreCompileInputs.cache
+/home/baixin/Documents/Project/csharpalg/obj/Debug/net7.0/csharpalg.dll
+/home/baixin/Documents/Project/csharpalg/obj/Debug/net7.0/refint/csharpalg.dll
+/home/baixin/Documents/Project/csharpalg/obj/Debug/net7.0/csharpalg.pdb
+/home/baixin/Documents/Project/csharpalg/obj/Debug/net7.0/csharpalg.genruntimeconfig.cache
+/home/baixin/Documents/Project/csharpalg/obj/Debug/net7.0/ref/csharpalg.dll
