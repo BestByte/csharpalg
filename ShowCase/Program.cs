@@ -5,6 +5,7 @@ using System;
 using System.Collections.Generic;
 public class Program
 {
+    
    public static void Main(string[] args)
    {
        int[] arr = { 3, 6, 8, 10, 1, 2, 1 };
