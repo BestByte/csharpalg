@@ -48,4 +48,11 @@ public class UnitTest1
                                  word == null ? "<null>" : word, result));
         }
     }
+[TestMethod]
+    public void DirectCallWithValid()
+    {
+       string[] words = { "alphabet", "Error", "zebra", "abc", "αυτοκινητοβιομηχανία", "государство",
+                   "1234", ".", ";", " " };
+                 
+}
 }
