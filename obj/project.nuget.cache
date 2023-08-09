@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "1LfJL4TGQSBOPiD36nQ6GWvUBNdKBUXakhLFhjoEgd2p54OynzdnlP68XOtR29llqA0j6sCDJxu5BiNYnC/MAA==",
+  "dgSpecHash": "Iq64gKyVr7KwulgqoOqZviOrog2waaoDM/256tnom0KESISb3fB6YuDmVGJvjZRKle40ebd88qYmHvtiBwM8KA==",
   "success": true,
   "projectFilePath": "/home/baixin/Documents/Project/csharpalg/csharpalg.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/baixin/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
