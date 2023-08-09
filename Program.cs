@@ -19,6 +19,7 @@
             var name = Console.ReadLine();
             var currentDate= DateTime.Now;
             Console.WriteLine($"Hello {name}!");
+            Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");
             Console.WriteLine($"Today is {currentDate.ToShortDateString()}");
            
             Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");

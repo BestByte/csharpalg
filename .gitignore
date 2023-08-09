@@ -22,5 +22,21 @@ bin
 */*.pdb
 */*.cache
 */*.cache
-
+/debug
+*/debug
+/release
+*/release
+*/bin/Release
+*/bin/Debug
+*/obj/Release
+*/obj/Debug
+*/obj/generated
+*/obj/generated/_Build
+/Debug
+/Release
+/x64
+/x86
+*/x64
+*/x86
+*/bin/x64
 
