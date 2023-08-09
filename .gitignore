@@ -8,3 +8,11 @@
 */*.sln
 *.suo
 */*.suo
+/obj
+*/obj
+bin
+*/bin
+*/Properties
+*/packages
+*/packages.config
+
