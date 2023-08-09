@@ -2,6 +2,7 @@ using System;
 
 class QuickSort
 {
+    /*
    public static void Main()
    {
        int[] arr = { 3, 6, 8, 10, 1, 2, 1 };
@@ -12,7 +13,7 @@ class QuickSort
 
        Console.WriteLine("\nSorted array:");
        PrintArray(arr);
-   }
+   }*/
 
    public static void QuickSortArray(int[] arr, int low, int high)
    {

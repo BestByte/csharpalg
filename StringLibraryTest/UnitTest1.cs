@@ -55,4 +55,19 @@ public class UnitTest1
                    "1234", ".", ";", " " };
                  
 }
+
+[TestMethod]
+public void DirectCallWithInvalid()
+{
+    string[] words = { "alphabet", "Error", "zebra", "abc", "αυτοκινητοβιομηχανία", "государство",
+                   "1234", ".", ";", " " };
+    int[] arr = { 3, 6, 8, 10, 1, 2, 1 };
+       Console.WriteLine("Original array:");
+      
+
+      // QuickSortArray(arr, 0, arr.Length - 1);
+
+       Console.WriteLine("\nSorted array:");
+       
+}
 }
