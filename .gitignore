@@ -15,4 +15,12 @@ bin
 */Properties
 */packages
 */packages.config
+*.user
+*/*.user
+*.lock.json
+*.pdb
+*/*.pdb
+*/*.cache
+*/*.cache
+
 

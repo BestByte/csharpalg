@@ -15,6 +15,13 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("what is your name");
+            var name = Console.ReadLine();
+            var currentDate= DateTime.Now;
+            Console.WriteLine($"Hello {name}!");
+            Console.WriteLine($"Today is {currentDate.ToShortDateString()}");
+           
+            Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");
         }
     }
 }
